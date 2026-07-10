@@ -5,6 +5,8 @@ I'm a developer working on machine learning and problem-solving. Check out my la
 
 ### 🧩 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-Saitirtha__Behera-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Saitirtha_Behera/)
+<!-- LinkedIn Badge -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saitirtha-behera/)
 
 ---
 <!--
