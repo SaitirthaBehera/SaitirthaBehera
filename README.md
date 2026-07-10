@@ -1,6 +1,12 @@
 ## Hi there 👋
-## 🧩 LeetCode Profile
-[<img src="https://github-readme-stats.vercel.app/api?username=Saitirtha-Behera&show_icons=true&theme=dark" alt="Saitirtha's GitHub Stats" />](https://leetcode.com/u/Saitirtha_Behera/)
+
+### 🛠️ About Me
+I'm a developer working on machine learning and problem-solving. Check out my latest projects below!
+
+### 🧩 Coding Profiles
+[![LeetCode](https://img.shields.io/badge/LeetCode-Saitirtha__Behera-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Saitirtha_Behera/)
+
+---
 <!--
 **SaitirthaBehera/SaitirthaBehera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
