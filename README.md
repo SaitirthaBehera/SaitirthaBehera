@@ -1,6 +1,6 @@
 ## Hi there 👋
-## 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/api/Saitirtha_Behera/?theme=dark)
+## 🧩 LeetCode Profile
+[<img src="https://github-readme-stats.vercel.app/api?username=Saitirtha-Behera&show_icons=true&theme=dark" alt="Saitirtha's GitHub Stats" />](https://leetcode.com/u/Saitirtha_Behera/)
 <!--
 **SaitirthaBehera/SaitirthaBehera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
